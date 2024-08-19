@@ -7,7 +7,7 @@ path = "github.com/CaiJimmy/hugo-theme-stack/v3"
 
 [params.sidebar]
 emoji = "🍥"
-subtitle = "Un blog sur mes essais de tiramisu des les restaurant de Paris et d'ailleurs."
+subtitle = "Mes expériences de tiramisu à Paris et ailleurs."
 compact = true
 
 [params.sidebar.avatar]
