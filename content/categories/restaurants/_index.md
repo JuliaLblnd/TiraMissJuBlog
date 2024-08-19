@@ -1,5 +1,5 @@
 ---
-title: Recettes
-description: Mes recettes
+title: Restaurants
+description: Mes experiences au restaurant
 image: img/tiraia-2.jpeg
 ---
