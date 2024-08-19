@@ -7,9 +7,9 @@ sidebar:
     local: true
     src: img/tiravatar.jpg
 
-#DateFormat:
-#  published: 02 January 2006
-#  lastUpdated: 02 January 2006 13:12
+DateFormat:
+ published: 02 January 2006
+ lastUpdated: 02 January 2006 15:04
 
 article:
   license:
@@ -23,9 +23,9 @@ footer:
 widgets:
   homepage:
 #    - type: search
-#    - type: archives
-#      params:
-#        limit: 5
+    - type: archives
+      params:
+        limit: 5
     - type: categories
       params:
         limit: 10
