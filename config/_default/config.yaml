@@ -1,0 +1,8 @@
+baseURL: https://julialblnd.github.io/TiraMissJuBlog
+languageCode: fr-fr
+paginate: 5
+title: TiraMissJu Blog
+
+# Theme i18n support
+# Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
+#defaultContentLanguage: fr

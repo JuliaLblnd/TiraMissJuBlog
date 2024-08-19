@@ -1,11 +1,11 @@
-+++
-title = 'Ma Recette'
-description = 'Ma recette de tiramisu trés classique et pas vraiment original'
-date = 2024-08-19T01:05:26+02:00
-image = 'tiramisu.jpg'
-categories = ['recettes']
-draft = false
-+++
+---
+title: "Ma Recette"
+description: "Ma recette de tiramisu trés classique et pas vraiment original"
+date: 2024-08-19T01:05:26+02:00
+image: 'tiramisu.jpg'
+categories: ['recettes']
+draft: false
+---
 
 ### Ce qu'ils vous faut :
 
